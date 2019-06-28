@@ -4,9 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/the-notorious-f-e-c/zagat-photos-service
-  - https://github.com/the-notorious-f-e-c/zagat-google-reviews
-  - https://github.com/the-notorious-f-e-c/zagat-reviews
+  - https://github.com/the-nuggets/photos-service
+  - https://github.com/the-nuggets/google-reviews
+  - https://github.com/the-nuggets/reviews
 
 ## Table of Contents
 
